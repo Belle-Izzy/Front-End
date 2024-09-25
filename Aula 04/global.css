@@ -1,0 +1,15 @@
+.inicial {
+    background-color: #dfc5ee54;
+    justify-content: center;
+    width: 1000px;
+    height: 150px;
+}
+
+button{
+    background-color: rgb(109, 109, 109);
+    color: rgb(245, 207, 245);
+}
+
+body{
+    background-color: rgb(37, 31, 41);
+}

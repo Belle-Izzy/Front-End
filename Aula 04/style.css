@@ -1,0 +1,125 @@
+body{
+    background-color: rgb(37, 31, 41);
+}
+
+h1{
+    color: #624d9c;
+    font-style: oblique;
+    font-family: 'Snicker Snack', sans-serif;
+                                                
+                                                
+}
+
+h2{
+    color: #624d9c;
+    font-family: 'Snicker Snack', sans-serif;
+                                                
+}
+
+div{
+    background-color: #5b5177;
+    height: 500px;
+    width: 1000px;
+}
+img {
+    height: 400px;
+    width: 300px;
+    border-radius: 30px;
+}
+
+button{
+    background-color: rgb(109, 109, 109);
+    color: rgb(245, 207, 245);
+}
+
+.Central {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 30px;
+}
+
+.Pitty {
+    height: 400px;
+    width: 700px;
+    background-color: #9e91c4;
+    border-radius: 20px;
+    margin: 45px;
+    margin-left: 2px;
+}
+
+.Capitaltext {
+    height: 350px;
+    width: 700px;
+    background-color: #9e91c4;
+    border-radius: 20px;
+    margin: 45px;
+    margin-left: 2px;
+}
+
+.Capital {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 30px;
+    width: 780px;
+}
+
+.Mamonastext {
+    height: 400px;
+    width: 700px;
+    background-color: #9e91c4;
+    border-radius: 20px;
+    margin: 45px;
+    margin-left: 2px;
+}
+
+.Mamonas {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 90px;
+    margin-left: 30px;
+}
+
+.Kisstext {
+    height: 400px;
+    width: 700px;
+    background-color: #9e91c4;
+    border-radius: 20px;
+    margin: 45px;
+    margin-left: 2px;
+}
+
+.Kiss {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 10px;
+    margin-left: 30px;
+}
+
+.linha {
+    background-color: rgb(37, 31, 41);
+    display: flex;
+    flex-direction: row ;
+    margin: 3px;
+}
+
+.TheBetext {
+    height: 200px;
+    width: 400px;
+    background-color: #9e91c4;
+    border-radius: 20px;
+    margin: 45px;
+    margin-left: 2px;
+}
+
+.TheBe {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 10px;
+    margin-left: 30px;
+    width: 800px;
+}
